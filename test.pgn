@@ -1,0 +1,18 @@
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/B1vw8aRg"]
+[Date "2023.07.10"]
+[White "Fernando_Valdes"]
+[Black "paranoidray"]
+[Result "0-1"]
+[UTCDate "2023.07.10"]
+[UTCTime "14:06:19"]
+[WhiteElo "1328"]
+[BlackElo "1342"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "120+1"]
+[ECO "C00"]
+[Termination "Time forfeit"]
+
+1. e4 { [%eval 0.36] } 1... e6 { [%eval 0.0] } 2. Nf3 { [%eval 0.19] } 2... d5 { [%eval 0.25] } 3. exd5 { [%eval 0.0] } 3... exd5 { [%eval 0.13] } 4. Bd3 { [%eval -0.05] } 4... Be6 { [%eval 0.17] } 5. O-O { [%eval 0.01] } 5... Nf6 { [%eval 0.0] } 6. Re1 { [%eval 0.0] } 6... Be7 { [%eval 0.19] } 7. b3 { [%eval -0.17] } 7... O-O { [%eval -0.16] } 8. Bb2 { [%eval -0.24] } 8... h6 { [%eval -0.19] } 9. Nc3 { [%eval -0.2] } 9... c6 { [%eval 0.25] } 10. Bf1 { [%eval -0.24] } 10... Nbd7 { [%eval -0.14] } 11. g3 { [%eval -0.25] } 11... Nb6 { [%eval 0.26] } 12. Bg2 { [%eval 0.22] } 12... Qd7 { [%eval 0.38] } 13. d4 { [%eval -0.17] } 13... Bh3 { [%eval 4.57] } 14. Bc1 { [%eval -0.39] } 14... Bxg2 { [%eval -0.12] } 15. Kxg2 { [%eval -0.07] } 15... Bb4 { [%eval -0.11] } 16. Bd2 { [%eval -0.14] } 16... Rfe8 { [%eval -0.06] } 17. Qc1 { [%eval -0.42] } 17... Rxe1 { [%eval -0.33] } 18. Qxe1 { [%eval -0.39] } 18... Bxc3 { [%eval -0.18] } 19. Bxc3 { [%eval -0.29] } 19... Ne4 { [%eval -0.05] } 20. Bb2 { [%eval -0.16] } 20... Re8 { [%eval -0.08] } 21. Ne5 { [%eval -0.08] } 21... Qf5 { [%eval -0.17] } 22. c4 { [%eval -3.25] } 22... Ng5 { [%eval -1.81] } 23. cxd5 { [%eval -4.01] } 23... f6 { [%eval -4.21] } 24. dxc6 { [%eval -4.83] } 24... fxe5 { [%eval -5.04] } 25. cxb7 { [%eval -5.66] } 25... Rb8 { [%eval -4.57] } 26. d5 { [%eval -6.15] } 26... Nxd5 { [%eval -5.31] } 27. Rd1 { [%eval -6.9] } 27... Nb6 { [%eval -3.72] } 28. Qc3 { [%eval -4.13] } 28... Rxb7 { [%eval -3.44] } 29. g4 { [%eval -7.8] } 29... Qxg4+ { [%eval -7.77] } 30. Kf1 { [%eval -10.74] } 30... Re7 { [%eval -5.75] } 31. Rd8+ { [%eval -5.87] } 31... Kh7 { [%eval -5.65] } 32. Qc2+ { [%eval -6.33] } 32... g6 { [%eval -4.31] } 33. Qc8 { [%eval -9.74] } 33... Nf7 { [%eval 5.17] } 0-1
